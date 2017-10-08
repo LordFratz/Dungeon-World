@@ -1,0 +1,10 @@
+/.metadata/
+bin/
+RemoteSystemsTempFiles/
+.project
+*.project
+.tern-project
+*.tern-project
+.settings
+*.settings
+.settings/
